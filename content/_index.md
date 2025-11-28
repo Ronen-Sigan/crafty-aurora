@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2025-11-29
 type: landing
 
 design:
@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Hello
+      text: This site is for testing purposes
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
+        text: hey the
+        url: https://github.com/Ronen-Sigan
+        icon: smiley
       secondary_action:
         text: Read the docs
         url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
+        text: "read the blog."
         link:
           text: "Read more"
           url: "/blog/"
@@ -34,7 +34,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: d.svg
           filters:
             brightness: 0.5
           size: cover
