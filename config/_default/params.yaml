@@ -36,11 +36,11 @@ header:
     logo:
       text: ''
       # Logo filename in `assets/media/` folder
-      filename: 'logo1.svg'
+      filename: 'logo.svg'
     button:
       enable: true
       text: 'Get Started'
-      url: 'https://hugoblox.com/templates/'
+      url: 'https://github.com/Ronen-Sigan'
     show_search: true
     show_theme_chooser: true
 
