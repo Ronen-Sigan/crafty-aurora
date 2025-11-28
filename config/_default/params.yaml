@@ -5,8 +5,11 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: indigo
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: My
+  color: pink
 
 # SEO
 marketing:
